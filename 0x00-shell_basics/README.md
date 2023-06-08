@@ -4,3 +4,4 @@
 3-listfiles: This script displays the contents of the current directory in a long format. It uses the ls -l command to list the files and directories with detailed information, such as permissions, owner, size, and last modified date.
 4-listmorefiles: This script displays the contents of the current directory, including hidden files, in a long format. It uses the ls -la command to list all files and directories (including hidden ones) with detailed information.
 5-listfilesdigitonly: This script displays the contents of the current directory in a long format, with user and group IDs displayed numerically. It also includes hidden files (starting with "."). It uses the ls -lan command to list all files and directories with detailed information, including numeric user and group IDs.
+6-firstdirectory: This script creates a directory named my_first_directory in the /tmp/ directory. It uses the mkdir command to create the directory.
